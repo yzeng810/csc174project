@@ -31,13 +31,10 @@ include "inc/html-top.inc";?>
 
 	</main>
 
-	<footer>CSC174: Advanced Front-end Web Design and Development</footer>	
-	<nav>
-
-		
-
-</nav>	
-	<script src="./qianwen fu_files/jquery.js"></script>
-<script src="./qianwen fu_files/menu-highlighter.js"></script>	
+    <?php include "inc/footer.inc";?>
+	
+	<?php include "inc/nav.inc";?>
+	
+	<?php include "inc/scripts.inc";?>
 
 </body></html>
