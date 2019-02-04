@@ -5,16 +5,16 @@ include "inc/html-top.inc";?>
     <header>
 		<a href="index.php">
 			<h1>Hong Kong</h1>
-			<img src="images/hongkong.jpeg"
+			<img src="images/hongkong.jpg"
 			     alt="a picture of Hong Kong">
 		</a>
 	</header>
 
 	<aside>
 		<ul>
-			<a href="kunfang.php"><li>Kun Fang</li></a>
-			<a href="qianwen-fu.php"><li>Qianwen Fu</li></a>
-			<a href="yuqizeng.php"><li>Yuqi Zeng</li></a>
+			<a href="kunfang.php"><li>Kun Fang | The Information Architech</li></a>
+			<a href="qianwen-fu.php"><li>Qianwen Fu | The Visual Designer</li></a>
+			<a href="yuqizeng.php"><li>Yuqi Zeng | The Coder</li></a>
 		</ul>
 	</aside>
 

@@ -15,7 +15,6 @@
 
 * {
 	padding:10px;
-	border: 2px solid hotpink;
 }
 h2{
 	font-family:monospace;
@@ -29,7 +28,7 @@ aside{
 
 }
 aside li{
-	padding-right: 50px;
+	padding-left: 50px;
 	list-style-type: none;
 	font-family:CourierNew,Monospace;
 }
@@ -66,10 +65,10 @@ header h1{
 	transform:rotate(-90deg);
 	position:absolute;
 	z-index:100;
-	top:100px;
-	left:-180px;
+	top:101px;
+	left:-185px;
 	margin-left: 0px;
-	font-size:60px;
+	font-size:65px;
 	color:black;
 	font-family:monospace;
 }
