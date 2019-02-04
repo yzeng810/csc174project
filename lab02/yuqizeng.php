@@ -29,11 +29,11 @@ include "inc/html-top.inc";?>
 		<p>Cooking is my passion, and how I express my emotions and my individuality. The tastes in cooking - sweetness, sourness, bitterness, saltiness and spiciness - reflect life, and I believe that life influences the taste of every dish.  Through cooking, warmth and nostalgia flow into my life. Whenever I taste the sweetness in some dishes, it reminds me of my grandmother; whenever I taste the strong soy sauce flavor, it reminds me of my sturdy and wise father; whenever I taste the refreshment of vegetables, it reminds me of my resilient and generous mother. Cooking is a way to express my own feelings, a way to express my understanding of life and a way to be creative; but above all, it is my way to spread my positive view of the world to the people I care about, the community I live in and the society I’m grateful for.</p>
 	</main>
 
-	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-
-<?php include "inc/nav.inc"; ?>
-
-<?php include "inc/scripts.inc"; ?>
+    <?php include "inc/footer.inc";?>
+	
+	<?php include "inc/nav.inc";?>
+	
+	<?php include "inc/scripts.inc";?>
 
 </body>
 
