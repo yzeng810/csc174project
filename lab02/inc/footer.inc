@@ -1,0 +1,1 @@
+<footer>CSC174: Advanced Front-end Web Design and Development</footer>
