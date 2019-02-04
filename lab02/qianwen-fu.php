@@ -31,7 +31,7 @@ include "inc/html-top.inc";?>
 
 	</main>
 
-    <?php include "inc/footer.inc";?>
+    <footer>© QIANWEN FU • CSC174 | <a href= "http://qfu4.digitalscholar.rochester.edu/csc174/lab01/index.php">For more info about Qianwen Fu</a></footer>
 	
 	<?php include "inc/nav.inc";?>
 	

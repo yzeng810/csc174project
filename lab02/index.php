@@ -30,7 +30,7 @@ include "inc/html-top.inc";?>
 
 	</main>
 
-	<?php include "inc/footer.inc";?>
+	<footer>CSC174: Advanced Front-end Web Design and Development</footer>
 	
 	<?php include "inc/nav.inc";?>
 	
