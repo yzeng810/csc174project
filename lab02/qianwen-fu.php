@@ -2,8 +2,6 @@
 $currentPage="Qianwen Fu | Lab 2: Flash Website";
 include "inc/html-top.inc";?>
 
-	<?php include "inc/aside.inc";?>
-
 	<header>
 		<a href="http://qfu4.digitalscholar.rochester.edu/csc174/lab01/index.php">
 			<h1>Qianwen Fu</h1>
@@ -37,4 +35,5 @@ include "inc/html-top.inc";?>
 	
 	<?php include "inc/scripts.inc";?>
 
-</body></html>
+</body>
+</html>

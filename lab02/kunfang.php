@@ -2,15 +2,12 @@
 $currentPage="Kun Fang | Lab 2: Flash Website";
 include "inc/html-top.inc";?>
 
-	<?php include "inc/aside.inc";?>
-
 <header>
   <a href="index.php">
   	<h1>Kun Fang</h1>
 	<img src="images/kunfang.jpg" alt="Kun Fang">
 	</a>
 </header>
-
 
 <aside>
 	<ul>

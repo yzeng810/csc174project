@@ -2,8 +2,6 @@
 $currentPage="Yuqi Zeng | Lab 2: Flash Website";
 include "inc/html-top.inc";?>
 
-	<?php include "inc/aside.inc";?>
-
 	<header>
 		<a href="index.php">
 			<h1>YUQI ZENG</h1>
