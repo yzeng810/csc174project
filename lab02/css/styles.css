@@ -9,8 +9,8 @@
 }
 
 .is-current{
-	background-color: black;
-	color:white;
+	text-shadow: 0 0 100px #d039ff;	
+	font-weight: bolder;
 }
 
 * {
@@ -52,11 +52,23 @@ nav li{
 	margin-left: 20px;
     padding:5px;
     font-family:monospace;
+    font-size: 20px;
 
 }
+
 a:link {
-  text-decoration: none;
+	text-decoration: none;
+	color: black;
 }
+
+a:hover {
+	font-weight: bold;
+}
+
+a:visited {
+	color: black;
+}
+
 header a {
 	display:block;
 	position:relative;
