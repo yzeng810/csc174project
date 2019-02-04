@@ -1,8 +1,6 @@
 <?php
 $currentPage="Hong Kong | Lab 2: Flash Website";
 include "inc/html-top.inc";?>
-
-	<?php include "inc/aside.inc";?>
     
     <header>
 		<a href="index.php">
@@ -11,6 +9,14 @@ include "inc/html-top.inc";?>
 			     alt="a picture of Hong Kong">
 		</a>
 	</header>
+
+	<aside>
+		<ul>
+			<a href="kunfang.php"><li>Kun Fang</li></a>
+			<a href="qianwen-fu.php"><li>Qianwen Fu</li></a>
+			<a href="yuqizeng.php"><li>Yuqi Zeng</li></a>
+		</ul>
+	</aside>
 
 	<main>
 		<p>I was never a student with perfect transcripts and standardized test scores; however, I always felt so lucky to find my passion – business – at such a young age, and always felt proud that I never gave up even when school tried to get in the way. My parents have two children – one is me and one is work. They didn’t want to miss the childhood of either of us, and, therefore, the great compromise was taking me to their work. I spent most of my childhood in stores, staring up at huge billboards. As I grew up, I became obsessed with how companies market themselves: the psychological tricks on every advertisement, the carefully timed promotions, the use of different media. A major in business started shining in the back of my mind.</p>
