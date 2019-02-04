@@ -5,7 +5,7 @@ include "inc/html-top.inc";?>
     <header>
 		<a href="index.php">
 			<h1>Hong Kong</h1>
-			<img src="images/hongkong.jpeg"
+			<img src="images/hongkong.jpg"
 			     alt="a picture of Hong Kong">
 		</a>
 	</header>
