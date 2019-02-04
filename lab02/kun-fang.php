@@ -5,10 +5,9 @@ include "inc/html-top.inc";?>
 	<?php include "inc/aside.inc";?>
 
 <header>
-
   <a href="index.php">
   	<h1>Kun Fang</h1>
-	<img src="images/IMG.jpg" alt="Kun Fang">
+	<img src="images/kunfang.jpg" alt="Kun Fang">
 	</a>
 </header>
 
@@ -19,7 +18,7 @@ include "inc/html-top.inc";?>
 		<li>DMS&Business</li>
 		<li>Amateur in Web Design</li>
 	</ul>
-	</aside>
+</aside>
 
 <main>
 	<h2> My Major</h2>
