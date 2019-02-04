@@ -4,7 +4,7 @@ include "inc/html-top.inc";?>
 
 	<header>
 		<a href="index.php">
-			<h1>YUQI ZENG</h1>
+			<h1 class="yuqih1">YUQI ZENG</h1>
 			<img src="images/yuqi.jpg" alt="Yuqi Zeng">
 		</a>
 	</header>
