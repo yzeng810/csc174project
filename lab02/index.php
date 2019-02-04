@@ -12,9 +12,9 @@ include "inc/html-top.inc";?>
 
 	<aside>
 		<ul>
-			<a href="kunfang.php"><li>Kun Fang | The Information Architect</li></a>
-			<a href="qianwen-fu.php"><li>Qianwen Fu | The Visual Designer</li></a>
-			<a href="yuqizeng.php"><li>Yuqi Zeng | The Coder</li></a>
+			<li><a href="kunfang.php">Kun Fang | The Information Architect</a></li>
+			<li><a href="qianwen-fu.php">Qianwen Fu | The Visual Designer</a></li>
+			<li><a href="yuqizeng.php">Yuqi Zeng | The Coder</a></li>
 		</ul>
 	</aside>
 
