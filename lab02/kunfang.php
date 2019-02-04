@@ -5,10 +5,9 @@ include "inc/html-top.inc";?>
 	<?php include "inc/aside.inc";?>
 
 <header>
-
   <a href="index.php">
   	<h1>Kun Fang</h1>
-	<img src="images/IMG.jpg" alt="Kun Fang">
+	<img src="images/kunfang.jpg" alt="Kun Fang">
 	</a>
 </header>
 
@@ -19,7 +18,7 @@ include "inc/html-top.inc";?>
 		<li>DMS&Business</li>
 		<li>Amateur in Web Design</li>
 	</ul>
-	</aside>
+</aside>
 
 <main>
 	<h2> My Major</h2>
@@ -32,7 +31,6 @@ include "inc/html-top.inc";?>
 	<h2> On my spare time</h2>
 	<p>In addition, I have been learning piano since 3 years-old. If I could get a chance, I wish to take some AME courses and learn about sound recording. I also like to watch action and horror movies. The excitement you can get from these kinds of movies is like a dagger that strikes into audiences’ heart. I do want to know about the story behind the screen.I love skating, skiing, playing badminton for sports. During vacation time, I would spend a lot of my time trying all kind of extreme sports. Right now I have already completed my mission in paragliding and skydiving. I am really looking forward to bungee jumping one day in the future.</p>
 </main>
-<<<<<<< HEAD
    
 
     <?php include "inc/footer.inc";?>
