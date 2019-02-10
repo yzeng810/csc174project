@@ -23,7 +23,8 @@
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		<a href="novel.php">Read More</a>
 		</div>
-		<img src="images/novel.jpg">
+		<img src="images/novel.jpg"
+		     alt="a picture about novel">
 		</section>
 
 		<section class="excerpt">
@@ -32,7 +33,8 @@
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		<a href="sfashion.php">Read More</a>
 		</div>
-		<img src="images/sfashion.jpg">
+		<img src="images/sfashion.jpg"
+		     alt="a picture about high street fashion">
 		</section>
 
 		<section class="excerpt">
@@ -41,7 +43,8 @@
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		<a href="designerhouse.php">Read More</a>
 		</div>
-		<img src="images/dhouse.jpg">
+		<img src="images/dhouse.jpg"
+		     alt="a picture about designer house">
 		</section>
 		
 	</main>
@@ -50,7 +53,7 @@
 
 	<?php include "inc/nav.inc"; ?>
 
-<?php include "inc/scripts.inc"; ?>
+    <?php include "inc/scripts.inc"; ?>
 
 </body>
 

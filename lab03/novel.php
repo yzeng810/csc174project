@@ -62,7 +62,7 @@ include "inc/html-top.inc";?>
 
 	<?php include "inc/nav.inc"; ?>
 
-<?php include "inc/scripts.inc"; ?>
+    <?php include "inc/scripts.inc"; ?>
 
 </body>
 
