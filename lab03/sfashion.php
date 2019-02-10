@@ -1,14 +1,7 @@
-<!DOCTYPE html>
+<?php
+$currentPage="High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
+include "inc/html-top.inc";?>
 
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">
-	<title> High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-
-<body class="container">
 	<header>
 		<h1>High-Street Fashion</h1>
 		<sub>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</sub>
@@ -53,7 +46,7 @@
 
 	<?php include "inc/nav.inc"; ?>
 
-<?php include "inc/scripts.inc"; ?>
+    <?php include "inc/scripts.inc"; ?>
 
 </body>
 

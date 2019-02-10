@@ -1,14 +1,7 @@
-<!DOCTYPE html>
+<?php
+$currentPage="Novel | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
+include "inc/html-top.inc";?>
 
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">
-	<title> Novel | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-
-<body class="container">
 	<header>
 		<h1>Novel</h1>
 		<sub>The domain is Ernest Hemingway's Famous Novels. Each novel has a general introduction, which is an unordered list about: publish year, the war it relates to, and its significance. Each novel has a plot summary. Each novel has a writing background section. Each novel has adaptations</sub>
