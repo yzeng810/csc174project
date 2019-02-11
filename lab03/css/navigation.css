@@ -1,0 +1,22 @@
+nav ul {
+	list-style-type: none;
+
+}
+
+nav li {
+	width: 100%;
+	border: solid grey 1px;
+}
+
+nav a {
+	color: black;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: grey;
+	text-shadow: 1px 1px 1px grey;
+	background-color: white;
+}

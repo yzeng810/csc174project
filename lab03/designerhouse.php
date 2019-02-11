@@ -2,10 +2,26 @@
 $currentPage="Designer House | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
 include "inc/html-top.inc";?>
 
+<<<<<<< HEAD
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title> Designer House | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/footer.css">
+</head>
+
+<body class="container">
+=======
+>>>>>>> c4f305d6325810f6850a889feb6ad4c67c0cf951
 	<header>
 		<h1>Designer House</h1>
 		<sub>Fashion is an important aspect in the spectrum of culture and social life, as well as being an important aspect of the economy. Fashion design and production gained prominence in France ever since the 15th century. In Paris, the capital of France, the center of the fashion industry, holds the name of global fashion capital. The city is home to many famous Designer Houses, including Louis Vuitton, Chanel and Dior.</sub>
 	</header>
+
+<?php include "inc/nav.inc"; ?>
 
 	<main>
 
@@ -66,9 +82,9 @@ include "inc/html-top.inc";?>
 		
 	</main>
 
-	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
+	<footer>  © CSC 174: Advanced Front-end Web Design and Development</footer>
 
-<?php include "inc/nav.inc"; ?>
+
 
 <?php include "inc/scripts.inc"; ?>
 

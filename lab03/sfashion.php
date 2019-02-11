@@ -2,11 +2,25 @@
 $currentPage="High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
 include "inc/html-top.inc";?>
 
+<<<<<<< HEAD
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title> High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/footer.css">
+</head>
+
+<body class="container">
+=======
+>>>>>>> c4f305d6325810f6850a889feb6ad4c67c0cf951
 	<header>
 		<h1>High-Street Fashion</h1>
 		<sub>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</sub>
 	</header>
-
+<?php include "inc/nav.inc"; ?>
 	<main>
 		<h2>Everlane</h2>
 		<h3>Introduction</h3>
@@ -42,9 +56,8 @@ include "inc/html-top.inc";?>
 		</ul>
 	</main>
 
-	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
+	<footer> © CSC 174: Advanced Front-end Web Design and Development</footer>
 
-	<?php include "inc/nav.inc"; ?>
 
     <?php include "inc/scripts.inc"; ?>
 
