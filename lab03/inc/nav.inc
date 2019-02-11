@@ -1,4 +1,4 @@
-<nav>
+<nav class="innercontainer">
 	<ul>
 		<li><a href="index.php">Home</a></li>
 		<li><a href="novel.php">Novel</a></li>

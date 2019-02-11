@@ -3,4 +3,17 @@
 	grid-template-columns: 1fr 1fr;
 	margin-top: 15px;
 	padding: 20px;
+	border:dashed black 1px;
+}
+header {
+	margin-left: 20px;
+    font-style:italic;
+    font-weight: bold;
+}
+
+.container{
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px;
+
 }
