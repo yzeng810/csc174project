@@ -1,11 +1,16 @@
 nav ul {
 	list-style-type: none;
+	display: inline;
+	font-family:"Courier New",Monospace;
+	display: flex;
+	justify-content: space-around;
 
 }
 
 nav li {
-	width: 100%;
-	border: solid grey 1px;
+	max-width: max-content; 
+	margin:20px;
+	width: 50%;
 }
 
 nav a {
@@ -17,6 +22,7 @@ nav a {
 
 nav a:hover {
 	color: grey;
-	text-shadow: 1px 1px 1px grey;
-	background-color: white;
+	font-size:120%;
+
+
 }

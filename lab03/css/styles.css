@@ -9,14 +9,37 @@ header {
     font-weight: bold;
 }
 p{
+
 	line-height:1.5em;
+	font-size:15px;
 	padding: 10px;
+	font-family: "Times New Roman", Times, serif;
 }
 main p{
-	border:dashed black 1px;
+	border:dashed grey 1px;
+}
+h1{
+	font-size:40px;
 }
 h2{
+	font-size:25px;
 	font-style: italic;
 	background-color: black;
 	color:white;
+}
+h3{
+	font-size: 20px;
+}
+
+sub{
+	font-size:15px;
+}
+ul{
+	margin:10px;
+	list-style-type: circle;
+	padding:20px;
+}
+th, td {
+	border: 1px solid black;
+	text-align: center;
 }

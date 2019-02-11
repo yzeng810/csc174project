@@ -4,7 +4,7 @@ include "inc/html-top.inc";?>
 
 	<header>
 		<h1>Designer House</h1>
-		<sub>Fashion is an important aspect in the spectrum of culture and social life, as well as being an important aspect of the economy. Fashion design and production gained prominence in France ever since the 15th century. In Paris, the capital of France, the center of the fashion industry, holds the name of global fashion capital. The city is home to many famous Designer Houses, including Louis Vuitton, Chanel and Dior.</sub>
+		
 	</header>
 
 <?php include "inc/nav.inc"; ?>
