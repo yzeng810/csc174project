@@ -8,6 +8,10 @@ header {
     font-style:italic;
     font-weight: bold;
 }
+p{
+	line-height:1.5em;
+	padding: 10px;
+}
 main p{
 	border:dashed black 1px;
 }
