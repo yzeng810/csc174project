@@ -2,22 +2,6 @@
 $currentPage="High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
 include "inc/html-top.inc";?>
 
-<<<<<<< HEAD
-
-<html lang="en">
-
-<head>
-	<meta charset="utf-8">
-	<title> High-Street Fashion | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/navigation.css">
-	<link rel="stylesheet" href="css/footer.css">
-</head>
-
-<body class="container">
-
-=======
->>>>>>> ed1395c8532200dc1d2eedc48b8410dff626b9fe
 	<header>
 		<h1>High-Street Fashion</h1>
 	</header>
