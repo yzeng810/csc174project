@@ -1,6 +1,6 @@
 .excerpt {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 2fr 1fr;
 	margin-top: 15px;
 	padding: 20px;
 	border:solid white 1px;
