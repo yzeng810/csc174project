@@ -23,6 +23,11 @@ nav a {
 nav a:hover {
 	color: grey;
 	font-size:120%;
+	text-decoration: underline;
+}
 
-
+.current {
+	color: black;
+	text-shadow: 1px 1px 1px grey;
+	background-color: white;
 }
