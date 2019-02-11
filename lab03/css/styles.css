@@ -1,0 +1,18 @@
+.container{
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px;
+}
+header {
+	margin-left: 20px;
+    font-style:italic;
+    font-weight: bold;
+}
+main p{
+	border:dashed black 1px;
+}
+h2{
+	font-style: italic;
+	background-color: black;
+	color:white;
+}

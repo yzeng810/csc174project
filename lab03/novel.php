@@ -2,10 +2,25 @@
 $currentPage="Novel | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
 include "inc/html-top.inc";?>
 
+<<<<<<< HEAD
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title> Novel | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/navigation.css">
+	<link rel="stylesheet" href="css/footer.css">
+</head>
+
+<body class="container">
+=======
+>>>>>>> c4f305d6325810f6850a889feb6ad4c67c0cf951
 	<header>
 		<h1>Novel</h1>
 		<sub>The domain is Ernest Hemingway's Famous Novels. Each novel has a general introduction, which is an unordered list about: publish year, the war it relates to, and its significance. Each novel has a plot summary. Each novel has a writing background section. Each novel has adaptations</sub>
 	</header>
+	<?php include "inc/nav.inc"; ?>
 
 	<main>
 		<h2>"The Sun Also Rises" (1920)</h2>
@@ -58,9 +73,9 @@ include "inc/html-top.inc";?>
 		<p>A film adaptation of Hemingway's novel, directed by Sam Wood, was released in 1943 starring Gary Cooper and Ingrid Bergman. It was nominated for nine Academy Awards, including Best Picture, Best Actor and Best Actress; however, only the Greek actress Katina Paxinou won an Oscar for her portrayal of Pilar. In 1959, a television adaptation, directed by John Frankenheimer, was broadcast in two parts on CBS's Playhouse 90, starring Jason Robards and Maria Schell as Robert Jordan and Maria, with Nehemiah Persoff as Pablo, Maureen Stapleton as Pilar, and Eli Wallach as the gypsy Rafael.</p>
 	</main>
 
-	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
+	<footer>  © CSC 174: Advanced Front-end Web Design and Development</footer>
 
-	<?php include "inc/nav.inc"; ?>
+	
 
     <?php include "inc/scripts.inc"; ?>
 
