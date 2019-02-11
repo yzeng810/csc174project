@@ -10,8 +10,6 @@
 	<link rel="stylesheet" href="css/footer.css">
 </head>
 
-
-
 <body class="container">
 
 

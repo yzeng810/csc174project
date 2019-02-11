@@ -2,6 +2,7 @@
 $currentPage="Novel | When Novel Meets Fashion | Lab 3: Smash Website | Team Hong Kong";
 include "inc/html-top.inc";?>
 
+<<<<<<< HEAD
 
 <html lang="en">
 
@@ -15,6 +16,8 @@ include "inc/html-top.inc";?>
 
 <body class="container">
 
+=======
+>>>>>>> ed1395c8532200dc1d2eedc48b8410dff626b9fe
 	<header>
 		<h1>Novel</h1>
 	
